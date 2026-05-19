@@ -1,0 +1,3 @@
+this is the task one in the git
+so git init 
+git log --oneline to see the log in one line 
