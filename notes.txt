@@ -1,3 +1,8 @@
 so git init 
 git status : used to check the status of the files in the staging area
 git log --oneline to see the log in one line 
+git commit -m "to commit the changes"
+git branch - to check the branchs 
+git merge "branch name"
+git checkout "branch name"
+
